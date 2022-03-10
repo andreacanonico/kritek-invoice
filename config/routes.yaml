@@ -1,0 +1,4 @@
+invoice:
+  path: /
+  controller: App\Controller\InvoiceController::index
+
